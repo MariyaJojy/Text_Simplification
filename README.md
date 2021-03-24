@@ -1,1 +1,7 @@
 # Text_Simplification
+Text Simplification is the task of reducing the complexity of the vocabulary and sentence structure of text while retaining its original meaning. The task of sentence simplification is important for improving readability. This can benefit non-native speakers, children, and individuals with language impairments like autism and dyslexia and can also improve nlp model training.
+
+The objective of the project was to generate simple sentences from complex and compound sentences. A dataset containing various types of sentences was made and then the splitting is experimented on it. Using the stanfordnlp library, dependency parsing is done on the data and the dependencies are recorded. For a particular sentence, if it contains more than one nsubj or nsubjpass type dependecies then the sentence is a compound/complex sentence and the words and indices of these dependencies type are put into a list. The other dependencies are stored into another list after removing the unwanted dependencies like 'acl', 'ccomp', 'advcl', etc.
+
+The the nsubj/nsubpass list elements are converted to simple sentences by linking the indices and joining the words with corresponding index numbers and then rearranged. Rearrangement is done by sorting the order of indices of the sentence as the indices are given according to the order in which they appear.
+The split sentences are separated by a '/' and stored as a dataframe. The results are stored in csv file.
