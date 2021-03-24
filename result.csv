@@ -1,0 +1,27 @@
+,Sentence,Type,splits
+0,"['Sachin Tendulkar, who is a MP of Indian Parliament, played cricket. ']",complex/compound, Sachin Tendulkar MP played cricket ./ Sachin who is a MP Parliament/
+1,['MS Dhoni is the captain of Indian Cricket Team and he is the Vice-President of India Cement.'],complex/compound, MS Dhoni is the captain Team ./ and he is the Vice - President Cement/
+2,"[""Now that he's rich and famous, people make allowances for his idiosyncrasies. ""]",complex/compound, he 's rich/ Now people make allowances ./
+3,"['Because my coffee was too cold, I heated it in the microwave.']",complex/compound, my coffee was too cold/ I heated it microwave ./
+4,"['When I lost all my friends, I became a people-watcher.']",complex/compound, I lost friends I became/ I lost I became watcher ./
+5,"['Although it was very long, the movie was still enjoyable.']",complex/compound, it was very long/ the movie was still enjoyable ./
+6,['The actor was happy he got a part in a movie even though the part was small.'],complex/compound, The actor was happy ./ he got part movie/ got a part even the part was small/
+7,"['When a distinguished but elderly scientist states that something is possible, he is almost certainly right.']",complex/compound, a distinguished scientist states/ something is possible/ he is almost certainly right ./
+8,['The human brain never stops working until you stand up to speak in public.'],complex/compound, The human brain never stops working ./ you stand up/
+9,"['I stopped believing in Santa Claus when he asked for my autograph in a department store, but I still want to believe in him.']",complex/compound, I stopped believing I want ./ he asked autograph/ I stopped but I still want believe/
+10,"['As she was bright and ambitious, she became a manager in no time.']",complex/compound, she was bright she became/ she bright she became manager/
+11,['A complex sentence has one independent clause and at least one dependent clause.'],simple, A complex sentence has clause ./
+12,"['In\xa0botany, a\xa0tree\xa0is a\xa0perennial plant\xa0with an elongated\xa0stem, or\xa0trunk, supporting branches and leaves in most species.']",simple, botany a tree is a perennial plant stem ./
+13,"['In some usages, the definition of a tree may be narrower, including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height.']",complex/compound, usages the definition tree may be narrower plants ./ growth that are usable lumber height/
+14,"['In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees. ']",simple, definitions the taller palms are also trees ./
+15,['Trees are not a\xa0taxonomic group\xa0but include a variety of plant species that\xa0have independently evolved\xa0a trunk and branches as a way to tower above other plants to compete for sunlight.'],complex/compound, Trees are not a taxonomic group ./ species that have independently evolved trunk way/
+16,"['Trees tend to be long-lived, some reaching several thousand years old.\xa0']",complex/compound, Trees tend lived ./ some reaching old/
+17,['Trees have been in existence for 370 million years. It is estimated that there are some three trillion mature trees in the world.'],simple, Trees have been in existence years ./
+18,['A tree typically has many secondary branches supported clear of the ground by the trunk.\xa0'],simple, A tree typically has branches ./
+19,"['This trunk typically contains\xa0woody tissue\xa0for strength, and\xa0vascular tissue\xa0to carry materials from one part of the tree to another.\xa0']",simple, This trunk typically contains tissue strength ./
+20,['For most trees it is surrounded by a layer of\xa0bark\xa0which serves as a protective barrier.\xa0'],simple, layer which serves barrier/
+21,"[""The shoots typically bear leaves, which capture light energy and convert it into sugars by\xa0photosynthesis, providing the food for the tree's growth and development.""]",complex/compound, The shoots typically bear leaves ./ leaves which capture energy/
+22,['Trees play a significant role in reducing\xa0erosion\xa0and moderating the\xa0climate.\xa0'],simple, Trees play role ./
+23,['They remove\xa0carbon dioxide\xa0from the\xa0atmosphere\xa0and store large quantities of\xa0carbon\xa0in their tissues.'],simple, They remove dioxide atmosphere ./
+24,['\xa0Tropical rainforests\xa0are among the most\xa0biodiverse\xa0habitats in the world.\xa0'],simple, Tropical rainforests are among the biodiverse habitats world ./
+25,"['A commonly applied narrower definition is that a tree has a woody trunk formed by\xa0secondary growth, meaning that the trunk thickens each year by growing outwards, in addition to the primary upwards growth from the\xa0growing tip.']",complex/compound, A applied narrower definition is ./ a tree has trunk/ has a woody trunk the trunk thickens year/
